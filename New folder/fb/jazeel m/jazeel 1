@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en" style="scroll-behavior: smooth;">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>salu vlogy</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="icon" href="https://yt3.googleusercontent.com/5pqs_E9zBY4H0l2dx4V3LcA78apzPsd6cBX5GzrU4_L7fN0nnGXqyggohi9lbH8s6rMPlTMQ=s160-c-k-c0x00ffffff-no-rj" type="image/icon type">
+    <link rel="stylesheet" href="jazeel.css">
+    </head>
+<body>
+    <header class="bg-secondary" style="position: fixed; width: 100%; z-index: 1;" >
+        <div class="row text-white">          
+            <div class="col-md-6 col-9 p-3 pl-5">
+                <img class="ja" src="https://yt3.ggpht.com/5pqs_E9zBY4H0l2dx4V3LcA78apzPsd6cBX5GzrU4_L7fN0nnGXqyggohi9lbH8s6rMPlTMQ=s176-c-k-c0x00ffffff-no-rj-mo ">
+                <h2 class="o">salu vlogy</h2>
+                <h5 class="o">my YouTube channel name</h5>
+            </div>
+            <div class="col-md-6 my-auto">
+                <nav class="navbar navbar-expand-lg navbar-light">
+                        <button class="navbar-toggler ml-auto" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                      <span class="navbar-toggler-icon"></span>
+                    </button>
+                  
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+                      <ul class="navbar-nav  mr-auto">
+                        <li class="nav-item active">
+                          <a class="nav-link text-white" class="ki" href="#Home-section">Home</a>
+                        </li>
+                        <li class="nav-item">
+                          <a class="nav-link text-white" href="#Hobbies-section">Hobbies</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" href="#college imgs-section"> college imgs</a>
+                        </li>
+                        <li class="nav-item">
+                          <a class="nav-link text-white" href="#jazeel-section">my photos</a>
+
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" href="#contact me-section">contact me</a>
+                          </li>
+                       
+                       
+                      </ul>
+                    </div>
+                  </nav>
+            </div>
+        </div>
+    </header>
+    <section  id="Home-section" style="padding-top:17em;">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-md-6">
+                    <img  src="https://yt3.ggpht.com/5pqs_E9zBY4H0l2dx4V3LcA78apzPsd6cBX5GzrU4_L7fN0nnGXqyggohi9lbH8s6rMPlTMQ=s176-c-k-c0x00ffffff-no-rj-mo " alt="" class="rounded-circle ">
+                    
+                </div>
+                <div class="col-md-6">
+                    <h5>muhammed jazeel m, india,kerala,malappuram</h5>
+                    <h6>"You are the average of 5 people you hang around"</h6>
+
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="bg-light p-5 " id="Hobbies-section">
+        <div class="container">
+            <h1 class="text-center">Hobbies</h1>
+
+            <div class="row ">
+                <div class="col-md-4 ">
+                    <div class="card ">
+                        <img class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8C6xO5QjWPEcH1NSRu6azPAwt9Au7AA9ZuQ&s">
+                         <div class="card-body">
+                          <h5 class="card-title">Football</h5>
+                          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        </div>
+                      </div>
+               
+                    
+                    
+                  </div>
+
+                  <div class="col-md-4">
+                    <a href="https://youtu.be/ZVctmsHwbK4?si=qcGkmpuoXM3uhi3o" style="text-decoration:none;">
+                        
+                    <div class="card">
+                        <img class="card-img-top" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgmUlTrWfflCDy0o8gb-RS78aOtB2n_ecuww&s">
+                         <div class="card-body">
+                          <h5 class="card-title">YouTube </h5>
+                          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        </div>
+                      </div>
+                    </a>   
+                  </div>
+                  <div class="col-md-4">
+                    <div class="card">
+                        <img class="card-img-top" src="data:image/png;base64,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">
+                         <div class="card-body">
+                          <h5 class="card-title">Singer</h5>
+                          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                        </div>
+                      </div>
+                      </div>
+                      
+
+                      
+                 
+                  
+               
+                    
+                    
+                  </div>
+                 
+                </div>
+                
+
+                  
+            </div>
+        </div>
+
+    </section>
+    <section class="bg-light" id="college imgs-section">
+        <div class="container">
+            <h1 class="text-center"> college imgs</h1><br><br>
+            <div class="row">
+                <div class="col-md-4">
+                <div class="card" style=" height: 26.5rem;">
+                    <img src="groop.jfif" id="card-img-top width:5px" alt="...">
+                    <div class="card-body">
+                        <h3 class="card-text">college hostel boys photo</h3>
+                    </div>
+                     
+                  </div>
+                </div>
+                  <div class="col-md-4">
+                  <div class="card" style=" height: 26.5rem;">
+                    <img id="m" src="a.jfif" id="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h3 class="card-text">college trip photo</h3>
+                    </div>
+                  </div>
+                </div>
+                  <div class="col-md-4">
+                  <div class="card" style=" height: 26.5rem;">
+                    <img src="a.jfif" class="card-img-top" style="width: 100%; height: 83%; margin-left: 1px; margin-top: 0px;" alt="...">
+                    <div class="card-body">
+                      <h3 class="card-text">college trip photo</h3>
+                    </div>
+                  </div>
+                </div>
+            </div>
+                <div class="row pt-5">
+                <div class="col-md-4">
+                    <div class="card" style=" height: 26.5rem;">
+                      <img src="a.jfif" class="card-img-top" style="width: 100%; height: 83%; margin-left: 1px; margin-top: 0px;" alt="...">
+                      <div class="card-body">
+                        <h3 class="card-text"> college trip photo</h3>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-4">
+                    <div class="card" style=" height: 26.5rem;">
+                      <img src="a.jfif" class="card-img-top" style="width: 100%; height: 83%; margin-left: 1px; margin-top: 0px;" alt="...">
+                      <div class="card-body">
+                        <h3 class="card-text">college trip photo</h3>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-md-4">
+                    <div class="card" style=" height: 26.5rem;">
+                      <img src="a.jfif" class="card-img-top" style="width:100%; height: 83%; margin-left: 1px; margin-top: 0px;" alt="...">
+                      <div class="card-body">
+                        <h3 class="card-text">college trip</h3>
+                        
+                      </div> 
+                    </div>
+                  </div>
+                </div>
+
+            </div>
+                      
+                         
+                              
+                                
+                            
+                            
+                        
+                        
+                    
+                
+                
+            </div>
+            
+        </div>
+    </section>
+    <section id="jazeel-section">
+      <div class="container">
+        <h1 class="text-center p-5">my photos</h1>
+        <div class="row align-items-center">
+          <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <img class="d-block w-100 " src="groop.jfif" alt="First slide">
+              </div>
+              <div class="carousel-item">
+                <img class="d-block w-100" src="groop.jfif" alt="Second slide">
+              </div>
+              <div class="carousel-item">
+                <img class="d-block w-100" src="groop.jfif" alt="Third slide">
+              </div>
+            </div>
+            <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+            </a>
+          </div>
+        </div>
+
+      </div>
+    </section>
+    <section>
+      <div class="container">
+        <div class="row pt-5">
+          <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+              <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+              <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+              <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+            </ol>
+            <div class="carousel-inner" style="border-radius: 5px;">
+              <div class="carousel-item active">
+                <img class="d-block w-100" src="groop.jfif" alt="First slide">
+              </div>
+              <div class="carousel-item">
+                <img class="d-block w-100" src="groop.jfif" alt="Second slide">
+              </div>
+              <div class="carousel-item">
+                <img class="d-block w-100" src="groop.jfif" alt="Third slide">
+              </div>
+            </div>
+            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+            </a>
+          </div>
+
+        </div>
+      </div>
+    </section>
+    
+    <section class="p-5 bg-light" id="contact me-section">
+        <div class="container">
+            <h1 class="text-center">contact me</h1>
+            <div class="row">
+                <div class="col-md-12">
+                <form>
+                    <div class="form-row">
+                      <div class="form-group col-md-6">
+                        <label for="inputEmail4">Name</label>
+                        <input type="text" class="form-control" id="inputEmail4" placeholder="Name">
+                      </div>
+                      <div class="form-group col-md-6">
+                        <label for="inputPassword4">place</label>
+                        <input type="text" class="form-control" id="inputPassword4" placeholder="place">
+                      </div>
+                     
+                    </div>
+                    <div class="form-row">
+                        <div class="form-group col-md-6">
+                          <label for="inputEmail4">Email</label>
+                          <input type="email" class="form-control" id="inputEmail4" placeholder="Email">
+                        </div>
+                        <div class="form-group col-md-6">
+                          <label for="inputPassword4">mobile</label>
+                          <input type="tel" class="form-control" id="inputPassword4" placeholder="mobile">
+                        </div>
+                       
+                      </div>
+                      
+                     
+                    <div class="form-group">
+                      <label for="inputAddress">message</label>
+                       <textarea class="form-control" cols="30" rows="10" placeholder="text your message here........."> </textarea>
+                    </div>
+                    
+                   
+                    <div class="form-group text-center">
+                    <button type="submit" class="btn btn-primary" >Submit</button>
+                </div>
+                  </form>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="bg-secondary">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 text-center text-white">
+                 
+                    <p>copyrights</p>
+
+                </div>
+
+            </div>
+
+        </div>
+    </footer>
+    
+
+
+
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</body>
+</html>

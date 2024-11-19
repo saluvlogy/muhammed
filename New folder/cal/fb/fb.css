@@ -1,0 +1,52 @@
+.signup-fieldname{
+  width: 400px; 
+  height: 600px;
+  background: rgb(174, 210, 243);
+  padding-left: 5px;
+  padding-top: 5px;
+  margin-left: 440px;
+  margin-top: 5px;
+}
+.field{
+  width: 192px;
+  height: 40px;
+  margin-top: 21px;
+  margin-left: -3px;
+}
+.fiel{
+  width: 331px;
+  height: 40px;
+  margin-top: 21px;
+  margin-left: 26px;
+}
+.dob{
+  width: 115px;
+  height: 40px;
+  margin-top: 9px;
+  margin-left: 11px;
+}
+.gray{
+  width: 115px;
+  height: 40px;
+  margin-top: 9px;
+  margin-left: 11px;
+
+}
+.gra{
+  width: 115px;
+  height: 40px;
+  margin-top: 9px;
+  margin-left: 11px;
+}
+.sub{
+  width: 115px;
+  height: 40px;
+  margin-top: 19px;
+  margin-left: 151px;
+  color: black;
+  background: greenyellow;
+}
+
+
+
+

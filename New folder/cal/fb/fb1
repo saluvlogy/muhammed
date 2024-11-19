@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="fb.css">
+</head>
+<body>
+    
+    <div class="signup-conrols">
+        <form class="signup-form" action="signup" id="signup-form">
+            <div class="signup-fieldname">
+                <input name="fname" class="field" type="text" placeholder="fast name">
+                <input name="sname" class="field" type="text" placeholder="srname">
+
+                <div class="signup-field">
+                    <input name="emi" class="fiel" type="text" placeholder="Emil addrase">
+    
+                </div>
+                <div class="signup-field">
+                    <input name="new" class="fiel" type="text" placeholder="New pasweed">
+
+                </div>
+                <div class="signup-field">
+                    <label class="gray">date of barth</label><br>
+                    <select name="day" class="dob">
+                        <option value="">day</option>
+                        <option value="1">01</option>
+                        <option value="2">02</option>
+                    </select>
+                    <select name="mothe" class="dob">
+                        <option value="">mothe</option>
+                        <option value="jan">jan</option>
+                        <option value="feb">feb</option>
+                    </select>
+                    <select name="yera" class="dob">
+                        <option value="">yera</option>
+                        <option value="1999">1999</option>
+                        <option value="1888">1888</option>
+
+                    </select>
+                </div>
+                <div class="signup-field">
+                    <label class="gray">Gender</label>
+                    <br>
+                    <br>
+                    <input name="gender" type="radio">
+                    <label  >mail</label>
+                    <input name="gender" type="radio">
+                    <label>fimail</label>
+                    <input name="gender" type="radio">
+                    <label>costam</label>
+
+                </div>
+                <div>
+                    <button class="sub" type="submit">sign up</button>
+
+                </div>
+    
+            </div>
+        </form>
+
+    </div>
+
+    
+    <script src="https://code.jquery.com/jquery-3.7.1.js" integrity="sha256-eKhayi8LEQwp4NKxN+CfCh+3qOVUtJn3QNZ0TciWLP4=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.5/dist/jquery.validate.js"></script>
+    <script src="fb.js"></script>
+</body>
+</html>
